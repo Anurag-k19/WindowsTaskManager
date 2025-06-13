@@ -37,7 +37,7 @@ This application allows you to **view**, **refresh**, **search**, and **terminat
 Open *Developer Command Prompt for VS* and run:
 
 ```bash
-cl mini\main.cpp /link psapi.lib
+
 
 
 ===== Mini Task Manager =====
